@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 ###################
 # compiled source #
 ###################
@@ -73,3 +75,4 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+>>>>>>> a2d44b68dabe0b13b4377c331d65bb270404bcf6

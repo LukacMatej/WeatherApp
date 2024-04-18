@@ -1,8 +1,53 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Weather";
 }
+<h1>Search City and Get Weather Forecast</h1>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div>
+    <strong>City Name  :</strong><input id="txtCity" type="text" />
+    <br />
+    <br />
+    <button id="btnSubmit"><a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="WeatherDetailAsync">Get Weather Detail</a></button>
+</div>
+
+
+<div>
+    <h2>Weather Forecast</h2>
+    <table>
+        <tr>
+            <td>Weather Symbol Icon <img id="imgWeatherIconUrl" src="" title="Weather Icon" /></td>
+        </tr>
+        <tr>
+            <td>
+                <strong>City: </strong>
+                <span id="lblCity"></span>  ,
+                <span id="lblCountry"></span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Latitude: </strong>
+                <label id="lblLat"></label><br />
+                <strong>Longitude: </strong>
+                <label id="lblLon"></label>
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Description:</strong>
+                <label id="lblDescription"></label><br />
+                <strong>Humidity:</strong>
+                <label id="lblHumidity"></label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Temperature (Feels Like)<label id="lblTempFeelsLike"></label><br />
+                Temperature <label id="lblTemp"></label><br />
+                Temperature (Min)<label id="lblTempMin"></label><br />
+                Temperature (Max)<label id="lblTempMax"></label><br />
+            </td>
+        </tr>
+    </table>
 </div>
