@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using WeatherApplication.Models;
+using WeatherApp.Models;
 
-namespace WeatherApplication.Controllers
+namespace WeatherApp.Controllers
 {
     public class HomeController : Controller
     {
@@ -12,10 +12,7 @@ namespace WeatherApplication.Controllers
         {
             _logger = logger;
         }
-        public ActionResult Weather()
-        {
-            return View();
-        }
+
         public IActionResult Index()
         {
             return View();
