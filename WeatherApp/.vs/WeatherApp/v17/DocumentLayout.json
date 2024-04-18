@@ -1,12 +1,152 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\stin\\weatherapp\\weatherapp\\weatherapp\\data\\migrations\\20240418122825_intialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\data\\migrations\\20240418122825_intialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_WeatherApp_4847781c_0267_4f43_ae15_b12ce954771c/True/SqlTable/dbo.Weather.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\stin\\weatherapp\\weatherapp\\weatherapp\\controllers\\weatherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\controllers\\weatherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\stin\\weatherapp\\weatherapp\\weatherapp\\views\\weathers\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\weathers\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\stin\\weatherapp\\weatherapp\\weatherapp\\views\\weathers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\weathers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\stin\\weatherapp\\weatherapp\\weatherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\stin\\weatherapp\\weatherapp\\weatherapp\\views\\weathers\\showsearchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\weathers\\showsearchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\stin\\weatherapp\\weatherapp\\weatherapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA4F9528-C7EF-4646-A848-ABCB01AE687D}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240418122825_intialsetup.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Data\\Migrations\\20240418122825_intialsetup.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Data\\Migrations\\20240418122825_intialsetup.cs",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Data\\Migrations\\20240418122825_intialsetup.cs",
+              "RelativeToolTip": "WeatherApp\\Data\\Migrations\\20240418122825_intialsetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:57:51.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Weather [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_WeatherApp_4847781c_0267_4f43_ae15_b12ce954771c/True/SqlTable/dbo.Weather.sql",
+              "ToolTip": "dbo.Weather [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-18T12:57:28.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowSearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Views\\Weathers\\ShowSearchForm.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp\\Views\\Weathers\\ShowSearchForm.cshtml",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Views\\Weathers\\ShowSearchForm.cshtml",
+              "RelativeToolTip": "WeatherApp\\Views\\Weathers\\ShowSearchForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:45:20.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Views\\Weathers\\Details.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp\\Views\\Weathers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Views\\Weathers\\Details.cshtml",
+              "RelativeToolTip": "WeatherApp\\Views\\Weathers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:40:14.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WeatherApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T10:16:25.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeathersController.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Controllers\\WeathersController.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Controllers\\WeathersController.cs",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Controllers\\WeathersController.cs",
+              "RelativeToolTip": "WeatherApp\\Controllers\\WeathersController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwEMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:22:53.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowSearchResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Views\\Weathers\\ShowSearchResult.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp\\Views\\Weathers\\ShowSearchResult.cshtml",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Views\\Weathers\\ShowSearchResult.cshtml",
+              "RelativeToolTip": "WeatherApp\\Views\\Weathers\\ShowSearchResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T11:58:21.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WeatherApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\STIN\\WeatherApp\\WeatherApp\\WeatherApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WeatherApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:01:55.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

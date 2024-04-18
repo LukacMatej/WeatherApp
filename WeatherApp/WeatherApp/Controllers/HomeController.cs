@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using WeatherApp.Models;
+using OpenMeteo;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace WeatherApp.Controllers
 {
@@ -12,13 +15,7 @@ namespace WeatherApp.Controllers
         {
             _logger = logger;
         }
-
         public IActionResult Index()
-        {
-            return View();
-        }
-
-        public IActionResult Privacy()
         {
             return View();
         }

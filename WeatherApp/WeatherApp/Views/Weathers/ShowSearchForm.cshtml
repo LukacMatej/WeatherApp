@@ -1,0 +1,23 @@
+﻿@model WeatherApp.Models.Weather
+
+@{
+    ViewData["Title"] = "ShowSearchForm";
+}
+
+<h1>Enter a city</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ShowSearchResult">
+            <div class="form-group">
+                <label asp-for="City" class="control-label"></label>
+                <input asp-for="City" class="form-control" />
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
